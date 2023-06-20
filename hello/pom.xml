@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>hariy.portorepo.spring</groupId>
 	<artifactId>hello</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.2-SNAPSHOT</version>
 	<name>hello</name>
 	<description>Porto Repo - Spring Hello World</description>
 	<properties>
